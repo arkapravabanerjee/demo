@@ -1,14 +1,72 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "Id": 1,
+        "Name": "Book 1",
+        "Author": "John Doe",
+        "Description": "This is a sample description for book 1.",
+        "Price" : 99
+    },
+    {
+        "Id": 2,
+        "Name": "Book 2",
+        "Author": "Chuck Norris",
+        "Description": "This is a sample description for book 2.",
+        "Price" : 88
+    },
+    {
+        "Id": 3,
+        "Name": "Book 3",
+        "Author": "Jane Doe",
+        "Description": "This is a sample description for book 4.",
+        "Price" : 75
+    },
+    {
+        "Id": 4,
+        "Name": "Book 4",
+        "Author": "Robert Brown",
+        "Description": "This is a sample description for book 4.",
+        "Price" : 93
+    },
+    {
+        "Id": 5,
+        "Name": "Book 1",
+        "Author": "Satish Jha",
+        "Description": "This is a sample description for book 5.",
+        "Price" : 55
+    },
+    {
+        "Id": 6,
+        "Name": "Book 6",
+        "Author": "Arkaprava Banerjee",
+        "Description": "This is a sample description for book 6.",
+        "Price" : 72
+    },
+    {
+        "Id": 7,
+        "Name": "Book 6",
+        "Author": "Bruce Banner",
+        "Description": "This is a sample description for book 7.",
+        "Price" : 81
+    },
+    {
+        "Id": 8,
+        "Name": "Book 8",
+        "Author": "Peter Parker",
+        "Description": "This is a sample description for book 8.",
+        "Price" : 222
+    },
+    {
+        "Id": 9,
+        "Name": "Book 9",
+        "Author": "Tony Stark",
+        "Description": "This is a sample description for book 9.",
+        "Price" : 725
+    },
+    {
+        "Id": 10,
+        "Name": "Book 10",
+        "Author": "Thanos",
+        "Description": "This is a sample description for book 10.",
+        "Price" : 255
+    }
+]
