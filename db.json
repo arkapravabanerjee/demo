@@ -1,6 +1,6 @@
 {
-    Cart : null,
-    Books:[
+    "Cart" : [],
+    "Books":[
         {
           "isbn": "9781593275846",
           "title": "Eloquent JavaScript, Second Edition",
